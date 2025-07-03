@@ -39,8 +39,7 @@ applies NLP sentiment analysis using the VADER model, and displays the results i
 ## 🚀 Live App Link
 
 👉 **Deployed on Streamlit**:  
-[https://vishalpancham.streamlit.app  
-*(Replace this with your actual link if different)*](https://public-sentiment-analysis-using-twitter-data-analyst-project-p.streamlit.app/)
+https://public-sentiment-analysis-using-twitter-data-analyst-project-p.streamlit.app/
 
 
 ---
